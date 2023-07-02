@@ -6,7 +6,7 @@ export default class Timer{
     }
 
     timer(){
-        this.interval = setInterval(logics.nextSlide, 5000)
+        this.interval = setInterval(this.logics.nextSlide, 5000)
     }
 
     destroyTimer(){
