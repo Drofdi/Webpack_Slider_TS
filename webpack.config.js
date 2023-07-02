@@ -1,4 +1,4 @@
 export default {
 	mode: 'development',
-	entry: './src/ImgSlider.js',
+	entry: './src/index.js',
 };
